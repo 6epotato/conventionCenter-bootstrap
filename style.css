@@ -1,0 +1,26 @@
+body{
+    font-family: 'Merriweather', serif;
+}
+.our-package{
+    background-color:#ffb3b3;
+    border-radius: 20px;
+    box-shadow: 5px 32px 17px rgba(250, 168, 168, 0.533)
+}
+.package-button{
+    background-color: #f8cdcdcc;
+    color: rgb(235, 95, 142);
+}
+.special-button{
+    background-color: white;
+    color:rgb(235, 95, 142);
+}
+.footer-color{
+    background-color: violet;
+}
+.slider-button{
+    background-color: white;
+    color: rgb(235, 95, 142);
+}
+.nav-font{
+    font-weight: 700;
+}
